@@ -17,11 +17,17 @@ Neighbourhood project is a web application that allows you to be in the loop abo
 ## Setup and Installations
 
 ##### Clone the repo:
-````bash
-````
+
+
 #### Navigate to the requirements folder and install
-````bash
-````
+
+      cd neighbourhood pip install -r requirements.txt
+
+#### Install and Activate Virtual environment
+    
+    -python3 -m venv virtual - source virtual/bin/activate
+
+####
 
 
 
