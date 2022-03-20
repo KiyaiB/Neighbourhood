@@ -33,7 +33,7 @@ Neighbourhood project is a web application that allows you to be in the loop abo
 
 #### Setup Database
 
-    SetUp your database User,Password, Host then make migrate
+SetUp your database User,Password, Host then make migrate
  ```bash
 python manage.py makemigrations hood
  ```
