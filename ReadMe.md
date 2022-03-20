@@ -13,3 +13,9 @@ Neighbourhood project is a web application that allows you to be in the loop abo
 * Create posts visible to everyone in my neighborhood
 * Change neighbourhood if a user moves
 * Only view details of a single neighborhood
+
+## Setup and Installations
+
+##### Clone the repo
+
+
