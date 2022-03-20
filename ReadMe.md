@@ -32,15 +32,15 @@ Neighbourhood project is a web application that allows you to be in the loop abo
     pip install requirements.txt
 
 #### Setup Database
-    
+
     SetUp your database User,Password, Host then make migrate
-     ```bash
+ ```bash
 python manage.py makemigrations hood
  ```
  Now Migrate
  ```bash
  python manage.py migrate
-```
+```  
 
 
 
