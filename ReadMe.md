@@ -16,6 +16,12 @@ Neighbourhood project is a web application that allows you to be in the loop abo
 
 ## Setup and Installations
 
-##### Clone the repo
+##### Clone the repo:
+````bash
+````
+#### Navigate to the requirements folder and install
+````bash
+````
+
 
 
