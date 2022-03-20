@@ -51,7 +51,7 @@ python manage.py makemigrations hood
  ```
 Open the Application in your browser
 
-## Technology used
+## Technologies used
 * Python
 * Django
 * Heroku
