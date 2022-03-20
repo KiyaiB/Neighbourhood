@@ -42,13 +42,13 @@ python manage.py makemigrations hood
  python manage.py migrate
 ```  
 #### Run the Application
-  
+ ```bash
    python3 manage.py runserver
-
+ ```
 #### Testing the Application
-   
+ ```bash  
    python3 manage.py test
-
+ ```
 Open the Application in your browser
 
 ## Technology used
@@ -58,7 +58,7 @@ Open the Application in your browser
 ## Known Bugs
 * There are no known bugs
 ## Support and contact details
-For more information,comments or clarification contact on babra.kiyai@student.moringaschool.com
+For more information,comments or clarification contact me on babrakiyai080@gmail.com
 ### License
 *MIT License*
 Copyright (c) 2022 Babra Kiyai
