@@ -43,7 +43,7 @@ python manage.py makemigrations hood
 ```  
 #### Run the Application
   
-  python3 manage.py runserver
+   python3 manage.py runserver
 
 #### Testing the Application
    
@@ -52,13 +52,13 @@ python manage.py makemigrations hood
 Open the Application in your browser
 
 ## Technology used
-* [Python3.8](https://www.python.org/)
-* [Django==3.2.7](https://docs.djangoproject.com/en/2.2/)
-* [Heroku](https://heroku.com)
+* Python
+* Django
+* Heroku
 ## Known Bugs
 * There are no known bugs
 ## Support and contact details
-For more information,comments or clarification contact on clara.metto@student.moringaschool.com
+For more information,comments or clarification contact on babra.kiyai@student.moringaschool.com
 ### License
 *MIT License*
 Copyright (c) 2022 Babra Kiyai
