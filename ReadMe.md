@@ -27,7 +27,20 @@ Neighbourhood project is a web application that allows you to be in the loop abo
     
     -python3 -m venv virtual - source virtual/bin/activate
 
-####
+#### Install Dependencies
+    
+    pip install requirements.txt
+
+#### Setup Database
+    
+    SetUp your database User,Password, Host then make migrate
+     ```bash
+python manage.py makemigrations hood
+ ```
+ Now Migrate
+ ```bash
+ python manage.py migrate
+```
 
 
 
